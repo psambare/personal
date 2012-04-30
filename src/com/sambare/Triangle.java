@@ -29,7 +29,8 @@ public class Triangle {
             }
         }
     }
-    
+
+    //just testing changes
     private void addPaths() {
         for(int i=0; i<10; i++ ) {
 
